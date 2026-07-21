@@ -1,0 +1,133 @@
+2026-07-21 14:33:25 ===== BRIDGE START  v1.4.6  pid=6461  log=/Users/alfiehall/ai/logs/bridge_debug.log =====
+2026-07-21 14:33:25 configured 1 MCP server(s): roblox
+2026-07-21 14:33:25 listening on ws://127.0.0.1:17613  - load the extension and open a supported AI chat
+2026-07-21 14:33:25 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ai/launch_studio_mcp.py)
+2026-07-21 14:33:25 [roblox] stderr: launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:25 [roblox] stdout closed (process ended, exit code 1)
+2026-07-21 14:33:25 [roblox] failed to start: [Errno 32] Broken pipe  (other servers continue)
+2026-07-21 14:33:25 ACTION NEEDED: Open your place in Roblox Studio. | Go to: Assistant Settings > MCP Servers |        > 'Enable Studio as MCP server' | It can take up to ~10s; this window will turn green.
+2026-07-21 14:33:26 extension connected  (127.0.0.1)  [1 client(s)]
+2026-07-21 14:33:30 [roblox] found dead - auto-restarting...
+2026-07-21 14:33:30 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ai/launch_studio_mcp.py)
+2026-07-21 14:33:30 [roblox] stderr: launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:30 [roblox] stdout closed (process ended, exit code 1)
+2026-07-21 14:33:30 [roblox] auto-restart failed: [Errno 32] Broken pipe
+2026-07-21 14:33:35 [roblox] found dead - auto-restarting...
+2026-07-21 14:33:35 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ai/launch_studio_mcp.py)
+2026-07-21 14:33:36 [roblox] stderr: launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:36 [roblox] stdout closed (process ended, exit code 1)
+2026-07-21 14:33:36 [roblox] auto-restart failed: [Errno 32] Broken pipe
+2026-07-21 14:33:41 [roblox] found dead - auto-restarting...
+2026-07-21 14:33:41 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ai/launch_studio_mcp.py)
+2026-07-21 14:33:41 [roblox] stderr: launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:41 [roblox] stdout closed (process ended, exit code 1)
+2026-07-21 14:33:41 [roblox] auto-restart failed: [Errno 32] Broken pipe
+2026-07-21 14:33:46 [roblox] CRASH LOOP: died 3 times in the last 60s (last exit code: 1). Something is killing it or it cannot start.
+2026-07-21 14:33:46 [roblox] last error output (usually the real reason):
+2026-07-21 14:33:46 [roblox]   launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:46 [roblox]   launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:46 [roblox]   launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:46 [roblox]   launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:46 [roblox] common causes: its app is not running (e.g. Blender + addon), a port conflict, an antivirus killing it, or a bad command in config.json. Auto-restart continues in the background.
+2026-07-21 14:33:56 [roblox] found dead - auto-restarting...
+2026-07-21 14:33:56 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ai/launch_studio_mcp.py)
+2026-07-21 14:33:56 [roblox] stderr: launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:33:56 [roblox] stdout closed (process ended, exit code 1)
+2026-07-21 14:33:56 [roblox] auto-restart failed: [Errno 32] Broken pipe
+2026-07-21 14:34:11 [roblox] found dead - auto-restarting...
+2026-07-21 14:34:11 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ai/launch_studio_mcp.py)
+2026-07-21 14:34:11 [roblox] stderr: launch_studio_mcp: no StudioMCP.exe found. Open Roblox Studio and enable 'Studio as MCP server' (Assistant Settings > MCP Servers).
+2026-07-21 14:34:11 [roblox] stdout closed (process ended, exit code 1)
+2026-07-21 14:34:11 [roblox] auto-restart failed: [Errno 32] Broken pipe
+2026-07-21 14:34:25 extension disconnected  [0 client(s)]
+2026-07-21 14:34:25 shutting down...
+2026-07-21 14:34:25 ===== BRIDGE STOP =====
+2026-07-21 14:38:56 ===== BRIDGE START  v1.4.6  pid=6571  log=/Users/alfiehall/ai/logs/bridge_debug.log =====
+2026-07-21 14:38:56 configured 1 MCP server(s): roblox
+2026-07-21 14:38:56 listening on ws://127.0.0.1:17613  - load the extension and open a supported AI chat
+2026-07-21 14:38:56 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ai/launch_studio_mcp.py)
+2026-07-21 14:38:57 [roblox] stderr: launch_studio_mcp: using /Applications/RobloxStudio.app/Contents/MacOS/StudioMCP
+2026-07-21 14:38:57 [roblox] MCP server up  (27 tools advertised)
+2026-07-21 14:38:59 ready 27 tools available - Roblox Studio connected
+2026-07-21 14:38:59 extension connected  (127.0.0.1)  [1 client(s)]
+2026-07-21 14:45:32 -> tool  script_read(target_file, should_read_entire_file)
+2026-07-21 14:45:32 <- script_read (0.0s): sabuiltin_Assistant.rbxm.Assistant.Packages._Index.AssistantUI.AssistantUI.Tools
+2026-07-21 14:45:44 -> tool  multi_edit(file_path, className, datamodel_type, edits)
+2026-07-21 14:45:44 <- multi_edit (0.0s): Created Memory (ModuleScript) with 1 edits applied
+2026-07-21 14:46:14 -> tool  execute_luau(code, datamodel_type)
+2026-07-21 14:46:14 <- execute_luau (0.1s): Created 5 checkpoints
+2026-07-21 14:46:46 -> tool  multi_edit(file_path, className, datamodel_type, edits)
+2026-07-21 14:46:46 <- multi_edit (0.0s): Created Config (ModuleScript) with 1 edits applied
+2026-07-21 14:47:01 -> tool  multi_edit(file_path, className, datamodel_type, edits)
+2026-07-21 14:47:01 <- multi_edit (0.0s): Created GameHandler (Script) with 1 edits applied
+2026-07-21 14:47:13 -> tool  script_read(target_file, should_read_entire_file)
+2026-07-21 14:47:13 <- script_read (0.0s):      1→local ServerStorage = game:GetService("ServerStorage")      2→local Playe
+2026-07-21 14:48:19 -> tool  multi_edit(file_path, datamodel_type, edits)
+2026-07-21 14:48:19 <- multi_edit (0.0s): Modified GameHandler (Script) with 4 edits applied
+2026-07-21 14:48:37 -> tool  multi_edit(file_path, className, datamodel_type, edits)
+2026-07-21 14:48:37 <- multi_edit (0.0s): Created ShopGUI (LocalScript) with 1 edits applied
+2026-07-21 14:48:48 -> tool  multi_edit(file_path, datamodel_type, edits)
+2026-07-21 14:48:48 <- multi_edit (0.0s): Modified ShopGUI (LocalScript) with 1 edits applied
+2026-07-21 14:48:57 -> tool  script_read(target_file, should_read_entire_file)
+2026-07-21 14:48:57 <- script_read (0.0s):      1→return [==[      2→# Project memory      3→## Overview      4→## Where th
+2026-07-21 14:49:11 -> tool  multi_edit(file_path, datamodel_type, edits)
+2026-07-21 14:49:11 <- multi_edit (0.0s): Modified Memory (ModuleScript) with 1 edits applied
+2026-07-21 14:49:17 -> tool  start_stop_play(is_start)
+2026-07-21 14:49:21 <- start_stop_play (3.9s): Game Started
+2026-07-21 14:51:32 -> tool  script_read(target_file, should_read_entire_file)
+2026-07-21 14:51:32 <- script_read (0.0s): sabuiltin_Assistant.rbxm.Assistant.Packages._Index.AssistantUI.AssistantUI.Tools
+2026-07-21 14:51:45 -> tool  start_stop_play(is_start)
+2026-07-21 14:51:46 <- start_stop_play (1.0s): Game Stopped
+2026-07-21 14:52:17 -> tool  execute_luau(code, datamodel_type)
+2026-07-21 14:52:17 <- execute_luau (0.1s): Obby built: 3 stages, 6 checkpoints, 6 checkpoint parts, spawn at 0, 0.5, 0
+2026-07-21 14:52:42 -> tool  execute_luau(code, datamodel_type)
+2026-07-21 14:52:42 <- execute_luau (0.1s): Tagged 6 checkpoints, 3 kill parts
+2026-07-21 14:52:47 -> tool  script_read(target_file, should_read_entire_file)
+2026-07-21 14:52:47 <- script_read (0.0s):      1→local ServerStorage = game:GetService("ServerStorage")      2→local Playe
+2026-07-21 14:55:48 -> tool  multi_edit(file_path, datamodel_type, edits)
+2026-07-21 14:55:48 <- multi_edit (0.0s): Modified GameHandler (Script) with 1 edits applied
+2026-07-21 15:00:30 -> tool  execute_luau(code, datamodel_type)
+2026-07-21 15:00:30 <- execute_luau (0.1s): Old ShopGUI removed
+2026-07-21 15:01:02 -> tool  execute_luau(code, datamodel_type)
+2026-07-21 15:01:02 <- execute_luau (0.1s): ObbyGUI created in StarterGui
+2026-07-21 15:01:10 -> tool  start_stop_play(is_start)
+2026-07-21 15:01:14 <- start_stop_play (3.7s): Game Started
+2026-07-21 15:01:27 -> tool  get_console_output()
+2026-07-21 15:01:27 <- get_console_output (0.0s): [{"type": "text", "text": ""}]
+2026-07-21 15:01:32 -> tool  script_read(target_file, should_read_entire_file)
+2026-07-21 15:01:32 <- script_read (0.0s): sabuiltin_Assistant.rbxm.Assistant.Packages._Index.AssistantUI.AssistantUI.Tools
+2026-07-21 15:01:39 -> tool  execute_luau(code, datamodel_type)
+2026-07-21 15:01:39 <- execute_luau (0.0s): Edit datamodel is not available in Play mode
+2026-07-21 15:01:43 -> tool  start_stop_play(is_start)
+2026-07-21 15:01:44 <- start_stop_play (1.2s): Game Stopped
+2026-07-21 15:01:50 -> tool  execute_luau(code, datamodel_type)
+2026-07-21 15:01:50 <- execute_luau (0.1s): Memory exists: ModuleScript
+2026-07-21 15:01:55 -> tool  script_read(target_file, should_read_entire_file)
+2026-07-21 15:01:55 <- script_read (0.0s):      1→return [==[      2→# Project memory      3→## Overview      4→Parkour obb
+2026-07-21 15:02:19 -> tool  multi_edit(file_path, datamodel_type, edits)
+2026-07-21 15:02:19 <- multi_edit (0.0s): Modified Memory (ModuleScript) with 1 edits applied
+2026-07-21 21:57:11 ===== BRIDGE START  v1.4.6  pid=65673  log=/Users/alfiehall/ZeroScript-1/logs/bridge_debug.log =====
+2026-07-21 21:57:11 configured 1 MCP server(s): roblox
+2026-07-21 21:57:11 listening on ws://127.0.0.1:17613  - load the extension and open a supported AI chat
+2026-07-21 21:57:11 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ZeroScript-1/launch_studio_mcp.py)
+2026-07-21 21:57:11 extension connected  (127.0.0.1)  [1 client(s)]
+2026-07-21 21:57:11 [roblox] stderr: launch_studio_mcp: using /Applications/RobloxStudio.app/Contents/MacOS/StudioMCP
+2026-07-21 21:57:11 [roblox] MCP server up  (27 tools advertised)
+2026-07-21 21:57:13 [roblox] stderr: 2026-07-21T20:57:13.574368Z  WARN StudioMCP::ws_server::server: Bound studio 8d6ef39e-f7bd-4100-9ee8-7a13b47c1d2b disconnected for proxy 8a3b2e72-f625-4aa5-a6bc-5556cf88906d
+2026-07-21 21:57:15 ready 27 tools available - Roblox Studio connected
+2026-07-21 21:57:20 Place loaded in Studio.
+2026-07-21 22:01:14 extension disconnected  [0 client(s)]
+2026-07-21 22:01:23 extension connected  (127.0.0.1)  [1 client(s)]
+2026-07-21 22:01:39 extension disconnected  [0 client(s)]
+2026-07-21 22:01:39 shutting down...
+2026-07-21 22:01:39 ===== BRIDGE STOP =====
+2026-07-21 22:01:48 ===== BRIDGE START  v1.4.6  pid=66075  log=/Users/alfiehall/ZeroScript-1/logs/bridge_debug.log =====
+2026-07-21 22:01:48 configured 1 MCP server(s): roblox
+2026-07-21 22:01:48 listening on ws://127.0.0.1:17613  - load the extension and open a supported AI chat
+2026-07-21 22:01:48 [roblox] launching  (/usr/local/opt/python@3.14/bin/python3.14 /Users/alfiehall/ZeroScript-1/launch_studio_mcp.py)
+2026-07-21 22:01:48 [roblox] stderr: launch_studio_mcp: using /Applications/RobloxStudio.app/Contents/MacOS/StudioMCP
+2026-07-21 22:01:48 [roblox] MCP server up  (27 tools advertised)
+2026-07-21 22:01:50 extension connected  (127.0.0.1)  [1 client(s)]
+2026-07-21 22:01:50 ready 27 tools available - Roblox Studio connected
+2026-07-21 22:08:22 extension disconnected  [0 client(s)]
+2026-07-21 22:08:26 extension connected  (127.0.0.1)  [1 client(s)]
