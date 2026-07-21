@@ -285,7 +285,7 @@ This allows ZeroScript to be used on both Windows and macOS.
 Special thanks to:
 
 * **sebattfg** — Original creator and lead developer of ZeroScript.
-* **archivealf** — macOS compatibility, launcher, and platform support.
+* **archivealf** — macOS and Linux compatibility, launcher, and platform support.
 
 ---
 
